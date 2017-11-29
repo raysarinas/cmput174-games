@@ -1,2 +1,3 @@
 # cmput174-games
-Games developed on Pygame in Lecture and in Labs
+
+python terminal-based games and games developed on pygame in class and in labs for cmput 174
